@@ -1,4 +1,4 @@
-const Home =()=>{
+const Button =()=>{
     function clickMe(){
         console.log('Hello World');
     }
@@ -12,4 +12,4 @@ return (<>
 </>)
 }
 
-export default Home
+export default Button
