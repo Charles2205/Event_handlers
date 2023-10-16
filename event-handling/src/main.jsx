@@ -4,5 +4,7 @@ import Home from './home'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
- <Home/>
+ <React.StrictMode>
+  <Home/>
+ </React.StrictMode>
 )
